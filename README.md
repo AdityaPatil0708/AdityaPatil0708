@@ -1,6 +1,6 @@
 # Hi there, I'm Aditya Patil 👋
 
-## 🚀 Full Stack Developer | DevOps Enthusiast
+## Full Stack Developer | DevOps Enthusiast
 
 I'm a final-year B.Tech student in Information Technology with hands-on experience in building scalable web applications and automating deployment pipelines. I'm passionate about creating efficient, user-friendly solutions and continuously learning new technologies.
 
